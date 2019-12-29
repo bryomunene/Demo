@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vendor/nexmo/client": "^2.0",
+        "vendor/nexmo/client-core": "^2.1"
+    }
+}
